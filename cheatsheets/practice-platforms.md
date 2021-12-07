@@ -15,3 +15,5 @@
 - [OWASP Mutillidae] (https://www.owasp.org/index.php/OWASP_Mutillidae_2_Project)
 - [tryhackme](https://tryhackme.com/)
 - [Portswigger Labs](https://portswigger.net/web-security/all-labs)
+- [Damn Vulnerable Web Application] (https://github.com/digininja/DVWA)
+- [VulnHub] (https://www.vulnhub.com/)
